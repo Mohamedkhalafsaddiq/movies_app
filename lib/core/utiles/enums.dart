@@ -1,0 +1,1 @@
+enum RequistState { loading, loaded, error }
